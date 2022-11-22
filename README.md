@@ -1,3 +1,3 @@
 # miniprojects
 
-Bank project: meney deposite, widrow and check bank balance.
+Bank project: deposite/widrow money and check bank balance.
